@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+**My Favourite Hobbies are:**
+* Reading
+* Drawing
+* Travelling
+* Learning new languages
+
+*I love things related to the colour green as it makes me happy 💚*
